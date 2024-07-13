@@ -7,7 +7,6 @@ This repository contains a Tableau project that analyzes various aspects of Netf
 The dataset used for this project includes information about Netflix movies and TV shows, such as:
 - Title
 - Director
-- Cast
 - Country of production
 - Release year
 - Rating
